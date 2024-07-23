@@ -1,0 +1,10 @@
+/**
+ * Custom Media Queries
+ *
+ * This file is used to define custom media queries that can be used
+ * in your CSS. It should not contain any CSS rules, only custom
+ * media queries.
+ * @see https://github.com/csstools/postcss-plugins/tree/main/plugins/postcss-global-data
+ */
+
+@custom-media --wp-small (max-width: 600px); /* Used by the core navigatio block */

@@ -1,0 +1,45 @@
+node_modules
+bower_components
+release
+vendor
+phpunit.xml
+.idea
+uploads
+upgrade
+cache
+
+# Project Files
+dist
+backstop_data
+
+# Editors
+*.esproj
+*.tmproj
+*.tmproject
+tmtags
+.*.sw[a-z]
+*.un~
+Session.vim
+*.swp
+.vscode
+
+# Mac OSX
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+/debug.log
+
+# UI Kit
+themes/*
+plugins/*
+mu-plugins/*
+
+# Allow Project Themes & Plugins
+!themes/tenup-theme
+!mu-plugins/10up-plugin-loader.php
+!plugins/tenup-plugin

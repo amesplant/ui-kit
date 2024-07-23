@@ -1,0 +1,10 @@
+/**
+ * Custom Mixins
+ *
+ * This file is used to define mixins that can be used in your CSS.
+ * It should not contain any CSS rules, only mixin definitions.
+ */
+
+@define-mixin foo {
+	background-color: transparent;
+}
